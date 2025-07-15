@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### Jalankan Bot
 
 ```bash
-python alias_generator.py
+python bot.py
 ```
 
 ---
