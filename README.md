@@ -19,20 +19,24 @@ Tool sederhana untuk membuat ratusan alias Gmail menggunakan metode **titik (.)*
 ## 🚀 Cara Pakai
 
 ### Clone & Install
+
 ```bash
 git clone https://github.com/kaydenzolucy/Gmail-alias.git
 cd Gmail-alias
 pip install -r requirements.txt
+```
 
-Jalankan Bot
+### Jalankan Bot
 
+```bash
 python alias_generator.py
-
+```
 
 ---
 
-📸 Contoh Tampilan
+## 📸 Contoh Tampilan
 
+```
 ╭─── 📧 Email Alias Bot ────╮
 │ AUTO GENERATE GMAIL ALIAS │
 │ Dibuat oleh kaydenzo      │
@@ -43,45 +47,38 @@ Menu:
 2 - Buat alias dengan plus
 3 - Hapus isi file gmails.txt
 q - Keluar
-
+```
 
 ---
 
-📁 Lokasi Output
+## 📁 Lokasi Output
 
 Alias yang berhasil dibuat akan otomatis disimpan ke:
 
+```
 gmails.txt
-
+```
 
 ---
 
-💡 Catatan
+## 💡 Catatan
 
 Alias Gmail hanya akan berfungsi jika:
 
-Digunakan di akun Gmail asli (misal username@gmail.com)
-
-Gmail tetap akan mengirim ke email utama meski alias berbeda
-
-
+- Digunakan di akun Gmail asli (misal username@gmail.com)
+- Gmail tetap akan mengirim ke email utama meski alias berbeda
 
 ---
 
-📬 Kontak
+## 📬 Kontak
 
 Jika ada pertanyaan, fitur request, atau kolaborasi:
 
-GitHub: @kaydenzolucy
-
-Telegram: @hkig889
-
-
+- GitHub: [@kaydenzolucy](https://github.com/kaydenzolucy)
+- Telegram: [@hkig889](https://t.me/hkig899)
 
 ---
 
-📜 Lisensi
+## 📜 Lisensi
 
 Proyek ini bebas digunakan untuk pembelajaran dan eksperimen. Gunakan secara bijak!
-
----
